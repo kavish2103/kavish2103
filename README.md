@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <b>Aspiring Fullstack Developer | 3rd Year CSE @ SVNIT Surat</b>  
+  <b>Aspiring Fullstack Developer | 4th Year CSE @ SVNIT Surat</b>  
   <br/>
 From Jaipur, India
 </p>
